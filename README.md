@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning AI/ML and deep learning
+- 🌱 I’m currently learning AI/ML
 <!--
 **Kevin0403/Kevin0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
