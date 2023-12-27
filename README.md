@@ -1,6 +1,6 @@
-## Hi there 👋
+<h1 style='font-family: "Lucida Console", "Courier New", monospace;'> Hi there👋, I an Kevin Sangani</h1>
 
-<!--
+<!-- 
 **Kevin0403/Kevin0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NisargPipaliya"></a>
+
+![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=Kevin0403&hide=["issues"]&show_icons=true)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
