@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,mysql,postgres,md&perline=11&theme=dark)](https://www.github.com/Kevin0403)
 
 ### 💻 Libraries & Framework
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,react&perline=11&theme=dark)](https://www.github.com/NisargPipaliya)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,react&perline=11&theme=dark)](https://www.github.com/Kevin0403)
 <a href="https://www.github.com/Kevin0403" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/></a>
 <a href="https://www.github.com/Kevin0403" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/></a>
 <a href="https://www.github.com/Kevin0403" target="_blank" rel="noreferrer"><img width="120" height="60" src="https://matplotlib.org/_static/logo_dark.svg"></a>
